@@ -17,7 +17,8 @@
 
 🎨 Portfolio: https://portfolioayan.vercel.app//
 
-💼 LinkedIn: https://www.linkedin.com/in/ayan-imran-7469662a5/
+💼 LinkedIn: https://www.linkedin.com/in/ayan-imran-chatbot-dev/
+
 
 📷 Instagram : https://www.instagram.com/ayanahmed3902/
 
