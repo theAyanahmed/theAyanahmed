@@ -3,6 +3,7 @@
 <h1>Hi I,m Ayan Ahmed 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EAB676&background=0D1117=false&width=355&height=40&lines=A.i+Chatbot+Developer%F0%9F%A4%96+;Mern+Stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a><br></div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
+  
 🔥 Chatbot and Web Developer
 
 💰 RISING TALENT at Upwork ✅
