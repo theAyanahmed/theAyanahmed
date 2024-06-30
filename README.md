@@ -3,6 +3,9 @@
 <h1>Hi I,m Ayan Ahmed 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EAB676&background=0D1117=false&width=355&height=40&lines=A.i+Chatbot+Developer%F0%9F%A4%96+;Mern+Stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a><br></div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
+  <img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
   
 🔥 Chatbot and Web Developer
 
@@ -23,6 +26,7 @@
 
 📷 Instagram : https://www.instagram.com/ayanahmed3902/
 
+
 <h2>Tech Stack</h2>
 <table width="100">
 <tr>
@@ -39,11 +43,11 @@
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+      
     </td>
  
 </tr>
- 
+   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">
 <tr>
     <td align='center'>
         <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"  width="80">
@@ -61,6 +65,7 @@
  
     
 </table>
+  <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me 🤝</h3>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ayan-imran-7469662a5/"><img src="https://img.shields.io/badge/-Ayan%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
