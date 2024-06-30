@@ -37,10 +37,6 @@
  <td align='center' width="200">
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
- <td align='center' width="200">
-      
-    </td>
- 
 </tr>
    
 <tr>
