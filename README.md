@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EAB676&background=0D1117=false&width=355&height=40&lines=A.i+Chatbot+Developer%F0%9F%A4%96+;Mern+Stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a><br></div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
   <img align="right" alt="Coding" width="380" style="border-radius:20px;"
-	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+	src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"/>
 
   
 🔥 Chatbot and Web Developer
@@ -17,17 +17,12 @@
 
 📓 I’m currently learning  Genrative AI... 😭
 
-📧 [ayanimranayanahmed@gmail.com](mailto:ayanimranayanahmed@gmail.com)
-
-🎨 Portfolio: https://portfolioayan.vercel.app//
-
-💼 LinkedIn: https://www.linkedin.com/in/ayan-imran-chatbot-dev/
 
 
-📷 Instagram : https://www.instagram.com/ayanahmed3902/
 
 
-<h2>Tech Stack</h2>
+
+<h2>⚡Tech Stack</h2>
 <table width="100">
 <tr>
     <td align='center' width="200">
@@ -47,10 +42,10 @@
     </td>
  
 </tr>
-   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">
+   
 <tr>
-    <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"  width="80">
+    <td align='center' width="72">
+       <img src ="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" style=flat-square&logo=javascript&logoColor=F0DB4F />
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
@@ -65,12 +60,19 @@
  
     
 </table>
+
+
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me 🤝</h3>
+  <p align="center">
+ <div align="center"  class="icons-social" style="margin-center: 10px;">
+<div>   
+    <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=0078FF" alt="Ayan Imran  Email"></a>
+ <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078ff" alt="Ayan Imran Linkedin"></a><br>
+    <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=0078ff" alt="Ayan Imran Facebook"></a>
+    <a href="https://www.Instagram.com/0xasharib/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0078ff" alt="Ayan Imran Instagram"></a>
+    <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=0078ff" alt="Ayan Imran fiverr"></a>
+    <br>
+</div>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/ayan-imran-7469662a5/"><img src="https://img.shields.io/badge/-Ayan%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayanimranayanahmed@gmail.com"><img src="https://img.shields.io/badge/-ayanimranayanahmed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ayanahmed3902/"><img src="https://img.shields.io/badge/-@ayanahmed3902-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- </p>
- 
+
 <br>
