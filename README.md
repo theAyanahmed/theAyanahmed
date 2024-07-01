@@ -18,12 +18,8 @@
 
 📓 I’m currently learning  Genrative AI... 😭
 
-
-
 <br>
 <br>
-<br>
-
 
 
 <h2>⚡Tech Stack</h2>
