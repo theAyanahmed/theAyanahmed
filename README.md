@@ -4,8 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=500&color=EB9C00&random=false&width=435&lines=%E2%9C%A8Chatbot+Developer%F0%9F%A4%96;%E2%9A%99%EF%B8%8FML%26NLP+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E2%9A%A1Mern+Stack+Developer%F0%9F%9A%80;%F0%9F%92%A1AI+Solutions+Provide%F0%9F%A4%96" alt="Typing SVG" /></a>
   <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAyanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="theAyanahmed" /> </p>
-<img src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" alt="Coding" width="45%" hight="70%";>
-<br>
+
+
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 
 <hr>
@@ -15,7 +17,7 @@
 • 📗 I'm currently learning Genrative AI... 😭.<br>
 • 💸 New SELLER on Fiverr.<br> 
 • 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
- Custom GPT⚙️,Voice AI Assitant🔊,Web Development💻,.<br>
+ Custom GPT⚙️,Voice AI Assitant🔊,Web Development💻,<br>
 • 📫 Reach me via Linkedin DM (AYAN IMRAN)<br>
 • 📫 Reach me via My personal Website🌐 (Working on)<br>
 <hr>
