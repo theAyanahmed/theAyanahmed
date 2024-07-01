@@ -14,8 +14,9 @@
 • 💰  RISING TALENT at Upwork ✅.<br> 
 • 📗 I'm currently learning Genrative AI... 😭.<br>
 • 💸 New SELLER on Fiverr.<br> 
-• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,Custom GPT⚙️,Voice AI Assitant🔊,Web Development💻,.<br>
-• 📫 Reach me via Linkedin DM (AYAN IMRAN)!<br>
+• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
+• Custom GPT⚙️,Voice AI Assitant🔊,Web Development💻,.<br>
+• 📫 Reach me via Linkedin DM (AYAN IMRAN)<br>
 • 📫 Reach me via My personal Website🌐 (Working on)<br>
 <hr>
 
