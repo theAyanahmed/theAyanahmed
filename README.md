@@ -17,10 +17,10 @@
 • 📗 I'm currently learning Genrative AI... 😭.<br>
 • 💸 New SELLER on Fiverr.<br> 
 • 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
-• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
-• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
-• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
-• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
+• Custom GPT⚙️,Web Development💻,<br>
+• 📫 Reach me LInkedin DM (AYAN IMRAN)<br>
+• 📫 Reach me Personal Website (work on)<br>
+
 
 <hr>
 
