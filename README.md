@@ -17,6 +17,10 @@
 • 📗 I'm currently learning Genrative AI... 😭.<br>
 • 💸 New SELLER on Fiverr.<br> 
 • 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
+• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
+• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
+• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
+• 🌊 I'm specialize in Dialogflow🤖,Social media Ai Assistant🌐,<br>
 
 <hr>
 
