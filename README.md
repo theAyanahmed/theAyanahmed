@@ -68,7 +68,7 @@
     <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=0078FF" alt="Ayan Imran  Email"></a>
  <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078ff" alt="Ayan Imran Linkedin"></a><br>
     <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=0078ff" alt="Ayan Imran Facebook"></a>
-    <a href="https://www.Instagram.com/0xasharib/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0078ff" alt="Ayan Imran Instagram"></a>
+    <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0078ff" alt="Ayan Imran Instagram"></a>
     <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=0078ff" alt="Ayan Imran fiverr"></a>
     <br>
 </div>
